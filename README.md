@@ -1,2 +1,8 @@
 # problem
-Finding problem is more important than solving.
+提出问题是创造的开始，这里记录重要，铸就卓越的高质量问题，希望它们成为你创造的灵感源泉。
+
+## WEB工程师需要解决的问题清单：
+* 如何提高WEB应用的性能？
+* 如何提供WEB应用的安全性？
+* 如何提高WEB团队的工作效率？
+* 如何搭建前端自动化构建工程？
