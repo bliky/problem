@@ -18,3 +18,7 @@
 * 如何利用事件代理来提高web交互性能？
 * 如何优化css样式来提高浏览器样式计算速度？
 * 如何压缩图片资源来优化web加载速度？
+
+### [WEB:E] 如何开发跨平台，跨浏览器，多终端兼容的，用户体验佳的前端交互页面？
+
+* [如何实现漏斗图？](https://github.com/bliky/problem/blob/master/solutions/solution_webe_chart_funnel.md)
