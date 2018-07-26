@@ -22,3 +22,11 @@
 ### [WEB:E] 如何开发跨平台，跨浏览器，多终端兼容的，用户体验佳的前端交互页面？
 
 * [如何实现漏斗图？](https://github.com/bliky/problem/blob/master/solutions/solution_webe_chart_funnel.md)
+
+# subject
+
+专题研究，不是来自一个具体问题，仅仅为了就某类专题做深入研究
+
+## [JS Framework]JS框架
+
+* [VueJs](https://github.com/bliky/problem/blob/master/subjects/vuejs/README.md)
